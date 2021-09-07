@@ -7,7 +7,6 @@
 # =====================================================
 
 import os
-from playsound import playsound
 from pytube import YouTube,Search
 
 def download_link(link):
